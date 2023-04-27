@@ -17,7 +17,7 @@ else
 }
 	
 	
-    // sum =sum+rem*p;
+    // s =s+rem*p;
     // p=p*10;
 }
 
@@ -25,6 +25,4 @@ console.log(s);
 
 
 
-// if(rem == '1')
-// 	s = s + '1';
 else s = s+'0
